@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+# your own study data stays local
+eval/data/sealed/*.md
+eval/data/answers/*.md
+eval/data/scratch/*
+eval/data/assignment.csv
+eval/data/scores.csv
+eval/transcripts/*
+!eval/**/.gitkeep

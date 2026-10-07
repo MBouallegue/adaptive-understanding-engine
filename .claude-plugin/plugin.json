@@ -1,0 +1,19 @@
+{
+  "name": "adaptive-understanding-engine",
+  "version": "1.2.0",
+  "description": "Builds durable understanding through predictions, real experiments and evidence instead of explanations.",
+  "author": {
+    "name": "Mohamed Bouallegue",
+    "url": "https://github.com/MBouallegue"
+  },
+  "homepage": "https://github.com/MBouallegue/adaptive-understanding-engine",
+  "repository": "https://github.com/MBouallegue/adaptive-understanding-engine",
+  "license": "MIT",
+  "keywords": [
+    "learning",
+    "understanding",
+    "tutoring",
+    "agent-skills"
+  ],
+  "outputStyles": "./output-styles/"
+}

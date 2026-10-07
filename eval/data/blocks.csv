@@ -1,0 +1,7 @@
+# One matched pair per line. Replace these with concepts you rated 0 or 1.
+trie, union-find
+Fenwick tree, segment tree
+Bloom filter, count-min sketch
+topological sort, strongly connected components
+Lamport timestamps, vector clocks
+write-ahead log, LSM-tree compaction

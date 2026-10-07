@@ -1,0 +1,14 @@
+{
+  "name": "adaptive-understanding-engine",
+  "description": "The Adaptive Understanding Engine: one plugin that builds understanding through predictions, real runs and evidence.",
+  "owner": {
+    "name": "Mohamed Bouallegue"
+  },
+  "plugins": [
+    {
+      "name": "adaptive-understanding-engine",
+      "source": "./",
+      "description": "Builds durable understanding through predictions, real experiments and evidence instead of explanations."
+    }
+  ]
+}
