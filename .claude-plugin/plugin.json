@@ -15,5 +15,7 @@
     "tutoring",
     "agent-skills"
   ],
-  "outputStyles": "./output-styles/"
+  "outputStyles": "./output-styles/",
+  "icon": "./icon.png"
+
 }
